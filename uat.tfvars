@@ -29,4 +29,10 @@ blocked_ips = [
   {
     source_address = "109.71.252.97/32" #TEST - SRE-00000 - AWS WAF - IP Blocking - Test
   },
+  {
+    source_address = "46.198.224.167/32" #TEST - SRE-00000 - AWS WAF - IP Blocking - Test
+  },
+  {
+    source_address = "77.90.175.20/32" #TEST - SRE-00000 - AWS WAF - IP Blocking - Test
+  },
 ]

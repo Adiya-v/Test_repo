@@ -10034,6 +10034,5 @@ blocked_ips = [
 
  source_address = "198.51.7.207/32" #TEST GENERATED
 
- },
-
+ }
 ]
